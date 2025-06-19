@@ -1,1 +1,1 @@
-# Flight-Prediction-ML
+# It includes data preprocessing steps such as handling date-time features, encoding categorical variables, and extracting new features to improve model performance. The goal is to prepare a clean and enriched dataset for accurate fare prediction in machine learning
